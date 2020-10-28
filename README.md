@@ -1,68 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `Project` - Volunteer-Network - travel-agency website
 
-## Available Scripts
+### `Live link :`  [Click here to visit the live site](https://volunteer-auth.web.app/)
 
-In the project directory, you can run:
+### `Feature :`
+* A complete MERN stack project. <br>
+* A volunteer can apply for an event. <br>
+* There are a dashboard in the site. So admin can add an event and maintain events. <br>
+* Authentication service is enabled. Only a logged in user can add a service. <br>
+* Firebase and JWT token are also used. So only a valid user can access or add a service. <br>
 
-### `npm start`
+### `Techonology :` React, React Router, Node.js, Express.js, MongoDB, Bootstrap, Firebase. Heroku. <br>
+---
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> The Volunteer - Network website is basically a full stack MERN website.It is a travel agency website. *React*, *React-route*, *JavaScript*, *Material UI*, *Bootstrap*  are used as frond-end design and *MongoDB*, *Node.JS*, *Express.JS* are used as database.This is a very professional type website . Firebase authentication and JWT are also used. Only a valid user can add a service. There is a dashboard for an admin . Admin can monitor the whole process about a visitor. The website is fully responsive. User experience is also satisfied.A user can order for a service. Only the admin can add a service in home page.Clients' comments are also  displayed on the home page.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
